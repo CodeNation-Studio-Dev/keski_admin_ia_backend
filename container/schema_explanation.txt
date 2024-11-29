@@ -1,0 +1,13 @@
+Tabla: ventas
+Columnas:
+- producto: El nombre del producto vendido.
+- ventas: La cantidad de ventas de ese producto.
+- mes: El mes en el que ocurrieron las ventas.
+- sucursal: La sucursal que realizó la venta.
+
+Tabla: inventario
+Columnas:
+- producto: El nombre del producto en inventario.
+- stock: La cantidad actual de stock disponible.
+- sucursal: La sucursal que tiene el producto en inventario.
+
